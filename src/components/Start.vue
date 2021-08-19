@@ -53,13 +53,18 @@
       <ul>
         <li>
           Luis Alchundia
-          <a href="https://www.linkedin.com/" target="_blank"> LinkedIn </a>
+          <a
+            href="https://www.linkedin.com/in/luis-alchundia-117b78210"
+            target="_blank"
+          >
+            LinkedIn
+          </a>
         </li>
         <li>
           Darío Hernández
-          <a href="https://www.linkedin.com/in/antdhern/" target="_blank"
-            >LinkedIn</a
-          >
+          <a href="https://www.linkedin.com/in/antdhern/" target="_blank">
+            LinkedIn
+          </a>
         </li>
       </ul>
     </div>

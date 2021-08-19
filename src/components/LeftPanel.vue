@@ -44,10 +44,14 @@
     <v-container>
       <h4>2. Carga de archivo CSV</h4>
       <br />
+      <v-alert border="top" color="red lighten-2" dark>
+        Observación: Los datos que debe ingresar en la página web deben de estar
+        correctamente limpios y normalizados.
+      </v-alert>
       <v-file-input
-        accept=".csv"
+        accept=".csv,.xlsx,.xls"
         filled
-        label="CSV de datos"
+        label="CSV/XLSX/XLS de datos"
         placeholder="Archivos hasta 100 mb"
         outlined
         show-size
